@@ -30,14 +30,9 @@ turning ideas into useful digital solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
----
 
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/ayush-bhattarai32)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]([YOUR_PORTFOLIO_URL](https://ayushbhattarai3.com.np/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ayushbhattarai3.com.np/))
