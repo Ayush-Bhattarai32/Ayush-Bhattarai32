@@ -2,7 +2,7 @@
 
 🎓 BIT Student · Tribhuvan University, Nepal
 
-🛠️ Web Developer · JavaScript · Python · Backend Development
+🛠️ Web Developer 
 
 ---
 
